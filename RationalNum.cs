@@ -1,33 +1,44 @@
-﻿using static System.Console;
+using static System.Console;
 using System.Text;
 using System;
 
 namespace Lab7
 {
-    class RationalNum
+    class RationalNum : IComparable<RationalNum>, IEquatable<RationalNum>
     {
-        public int FirstNum { get; set; }
-        public int SecondNum { get; set; }
+        public int _firstNum;
+        public int _secondNum;
+
+        public RationalNum(int firstNum) : this(firstNum, 1) {}
+        public RationalNum(int firstNum, int secondNum)
+        {
+            _firstNum = firstNum;
+            _secondNum = secondNum;
+        }
+
+        public int CompareTo(RationalNum comparingNum)
+        {
+            if (comparingNum != null)
+            {
+                return _firstNum.CompareTo(comparingNum);
+            }
+            else
+            {
+                throw new Exception("Невозможно сравнить объекты");
+            }
+        }
 
         //реализация перекрытия
         public static RationalNum operator +(RationalNum a, RationalNum b)
         {
             if (a != null && b != null)
             {
-                if (a.SecondNum == b.SecondNum)
-                {
-                    return new RationalNum { FirstNum = a.FirstNum + b.FirstNum, SecondNum = a.SecondNum };
-                }
-                else
-                {
-                    return new RationalNum { FirstNum = a.FirstNum * b.SecondNum + b.FirstNum * a.SecondNum,
-                        SecondNum = a.SecondNum * b.SecondNum };
-                }
+                return new RationalNum(a._firstNum * b._secondNum + 
+                    b._firstNum * a._secondNum, 
+                    a._secondNum * b._secondNum);
             }
             else
             {
-                WriteLine("Wrong values entered!");
-
                 return null;
             }
         }
@@ -36,23 +47,12 @@ namespace Lab7
         {
             if (a != null && b != null)
             {
-                if (a.SecondNum == b.SecondNum)
-                {
-                    return new RationalNum { FirstNum = a.FirstNum - b.FirstNum, SecondNum = a.SecondNum };
-                }
-                else
-                {
-                    return new RationalNum
-                    {
-                        FirstNum = a.FirstNum * b.SecondNum - b.FirstNum * a.SecondNum,
-                        SecondNum = a.SecondNum * b.SecondNum
-                    };
-                }
+                return new RationalNum(a._firstNum * b._secondNum -
+                    b._firstNum * a._secondNum, 
+                    a._secondNum * b._secondNum);
             }
             else
             {
-                WriteLine("Wrong values entered!");
-
                 return null;
             }
         }
@@ -61,12 +61,10 @@ namespace Lab7
         {
             if (a != null && b != null)
             {
-                return new RationalNum { FirstNum = a.FirstNum * b.FirstNum, SecondNum = a.SecondNum * b.SecondNum };
+                return new RationalNum(a._firstNum * b._firstNum, a._secondNum * b._secondNum);
             }
             else
             {
-                WriteLine("Wrong values entered!");
-
                 return null;
             }
         }
@@ -75,12 +73,10 @@ namespace Lab7
         {
             if (a != null && b != null)
             {
-                return new RationalNum { FirstNum = a.FirstNum * b.SecondNum, SecondNum = a.SecondNum * b.FirstNum };
+                return new RationalNum(a._firstNum * b._secondNum, a._secondNum * b._firstNum);
             }
             else
             {
-                WriteLine("Wrong values entered!");
-
                 return null;
             }
         }
@@ -89,12 +85,10 @@ namespace Lab7
         {
             if (a != null && b != null)
             {
-                return a.FirstNum * b.SecondNum > b.FirstNum * a.SecondNum;
+                return a._firstNum * b._secondNum > b._firstNum * a._secondNum;
             }
             else
             {
-                WriteLine("Wrong values entered!");
-
                 return false;
             }
         }
@@ -103,49 +97,99 @@ namespace Lab7
         {
             if (a != null && b != null)
             {
-                return a.FirstNum * b.SecondNum < b.FirstNum * a.SecondNum;
+                return a._firstNum * b._secondNum < b._firstNum * a._secondNum;
             }
             else
             {
-                WriteLine("Wrong values entered!");
-
                 return false;
             }
         }
 
+        public override bool Equals(object numberToCompare)
+        {
+            return (numberToCompare != null && numberToCompare.GetType() == this.GetType()) ? Equals(numberToCompare) : false; 
+        }
 
-        //------------------------------------------------------------------------------
+        public bool Equals(RationalNum numberToCompare)
+        {
+                RationalNum RatNumberToComp = (RationalNum)numberToCompare;
+
+                return ((_firstNum == RatNumberToComp._firstNum &&
+                _secondNum == RatNumberToComp._secondNum) ? true : false);
+        }
+
+
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
+        }
+
+        public static implicit operator RationalNum(string number)
+        {
+            return ObjectCreator(number);
+        }
+
+        public static explicit operator string(RationalNum number)
+        {
+            return ToStringConverter("Rational", number);
+        }
+
+        public static implicit operator RationalNum(int number)
+        {
+            return new RationalNum(number);
+        }
+
+        public static explicit operator int(RationalNum number)
+        {
+            return Convert.ToInt32(number._firstNum / number._secondNum);
+        }
+
+        public static implicit operator RationalNum(double doubleNumber)
+        {
+            return new RationalNum(Convert.ToInt32(doubleNumber * 100), 100);
+        }
+
+        public static explicit operator double(RationalNum number)
+        {
+            return number._firstNum / number._secondNum;
+        }
+
+        public static bool operator ==(RationalNum number1, RationalNum number2)
+        {
+            return number1.Equals(number2);
+        }
+
+        public static bool operator !=(RationalNum number1, RationalNum number2)
+        {
+            return number1.Equals(number2);
+        }
+
         //представление в виде строки
-        public string ToStringConverter(string password)
+        public static string ToStringConverter(string password, RationalNum rationNum)
         {
             if (!string.IsNullOrEmpty(password))
             {
                 if (password == "Rational")
                 {
-                    return (FirstNum.ToString() + "/" + SecondNum.ToString());
+                    return (rationNum._firstNum.ToString() + "/" + rationNum._secondNum.ToString());
                 }
                 else if (password == "Real")
                 {
-                    Write((FirstNum / SecondNum).ToString("0.00"));
-                    return "";
+                    return  (rationNum._firstNum / rationNum._secondNum).ToString("0.00");
                 }
                 else
                 {
-                    WriteLine("Wrong command was entered, try again please!");
-
                     return "";
                 }
             }
             else
             {
-                WriteLine("Empty string entered!");
-
                 return "";
             }
         }
 
         //из строки в объект
-        public void ObjectCreator(string rationNumStr)
+        public static RationalNum ObjectCreator(string rationNumStr)
         {
             if (!string.IsNullOrEmpty(rationNumStr))
             {
@@ -159,14 +203,11 @@ namespace Lab7
                         if(int.Parse(numbers[i]) <= 0 || string.IsNullOrEmpty(numbers[i]))
                         {
                             WriteLine("Wrong numbers entered!");
-                            return;
+                            return null;
                         }
                     }
-                    
-                    FirstNum = int.Parse(numbers[0]);
-                    SecondNum = int.Parse(numbers[1]);
 
-                    return;
+                    return new RationalNum(int.Parse(numbers[0]), int.Parse(numbers[1]));
                 }
                 else 
                 {
@@ -182,16 +223,13 @@ namespace Lab7
                         wholeNum = Convert.ToInt32(Math.Floor(enteredNum));
                         fractional = Convert.ToInt32(Math.Round((enteredNum - wholeNum), 3) * 1000);
 
-                        FirstNum = (wholeNum * 1000) + fractional;
-                        SecondNum = 1000;
-
-                        return;
+                        return new RationalNum((wholeNum * 1000) + fractional, 1000);
                     }
                     catch(FormatException)
                     {
                         WriteLine("Wrong number entered!");
 
-                        return;
+                        return null;
                     }
                 }
             }
@@ -199,7 +237,7 @@ namespace Lab7
             {
                 WriteLine("Wrong numbers entered!");
 
-                return;
+                return null;
             }
         }
     }
