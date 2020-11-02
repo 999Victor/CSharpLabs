@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0D326FB8-C093-4F48-A6A1-E34DE44BE218}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WindowsService/Program.cs">
+    <Files>
+      <File FileName="WindowsService/Program.cs" Line="14" Column="1" />
+      <File FileName="WindowsService/appsettings.json" />
+      <File FileName="WindowsService/Worker.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WindowsService" expanded="True" selected="True">
+            <Node name="WindowsService" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WindowsService PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
