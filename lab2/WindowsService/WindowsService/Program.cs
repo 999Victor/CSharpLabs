@@ -18,11 +18,16 @@ namespace WindowsService
 {
     public class Program
     {
+
+
+        // Methods
+
         public static void Main(string[] args)
         {
             const string loggerTemplate = @"{Timestamp:yyyy-MM-dd HH:mm:ss} [{Level:u4}]<{ThreadId}> [{SourceContext:l}] {Message:lj}{NewLine}{Exception}";
             var baseDir = AppDomain.CurrentDomain.BaseDirectory;
             var logfile = Path.Combine(baseDir, "App_Data", "logs", "log.txt");
+             
             Log.Logger = new LoggerConfiguration()
                 .MinimumLevel.Override("Microsoft", LogEventLevel.Warning)
                 .Enrich.With(new ThreadIdEnricher())
@@ -34,14 +39,13 @@ namespace WindowsService
 
             try
             {
-                Log.Information("====================================================================");
-                Log.Information($"Application Starts. Version: {System.Reflection.Assembly.GetEntryAssembly()?.GetName().Version}");
-                Log.Information($"Application Directory: {baseDir}");
+                Log.Information("Приложение запущено");
+
                 CreateHostBuilder(args).Build().Run();
             }
             catch (Exception e)
             {
-                Log.Fatal(e, "Application terminated unexpectedly");
+                Log.Fatal(e, "Приложение остановлено");
             }
             finally
             {
@@ -58,8 +62,7 @@ namespace WindowsService
                 {
                     services.AddHostedService<Worker>();
                     services.Configure<AppSettings>(hostContext.Configuration.GetSection("AppSettings"));
-                    services.AddScoped<IServiceA, ServiceA>();
-                    services.AddScoped<IServiceB, ServiceB>();
+                    services.AddScoped<IFileService, FileService>();
                 })
                 .UseSerilog();
     }

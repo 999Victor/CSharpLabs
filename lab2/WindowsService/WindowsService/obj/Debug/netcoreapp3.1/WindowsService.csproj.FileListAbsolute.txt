@@ -88,3 +88,9 @@
 /Users/user/Documents/programming/VisualStudio/CSharp/BSUIR/CSharp-Lab-Tasks/lab2/WindowsService/WindowsService/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.ServiceProcess.ServiceController.dll
 /Users/user/Documents/programming/VisualStudio/CSharp/BSUIR/CSharp-Lab-Tasks/lab2/WindowsService/WindowsService/obj/Debug/netcoreapp3.1/WindowsService.csproj.CopyComplete
 /Users/user/Documents/programming/VisualStudio/CSharp/BSUIR/CSharp-Lab-Tasks/lab2/WindowsService/WindowsService/obj/Debug/netcoreapp3.1/WindowsService.genruntimeconfig.cache
+/Users/user/Documents/programming/VisualStudio/CSharp/BSUIR/CSharp-Lab-Tasks/lab2/WindowsService/WindowsService/bin/Debug/netcoreapp3.1/Serilog.dll
+/Users/user/Documents/programming/VisualStudio/CSharp/BSUIR/CSharp-Lab-Tasks/lab2/WindowsService/WindowsService/bin/Debug/netcoreapp3.1/Serilog.Enrichers.Thread.dll
+/Users/user/Documents/programming/VisualStudio/CSharp/BSUIR/CSharp-Lab-Tasks/lab2/WindowsService/WindowsService/bin/Debug/netcoreapp3.1/Serilog.Extensions.Hosting.dll
+/Users/user/Documents/programming/VisualStudio/CSharp/BSUIR/CSharp-Lab-Tasks/lab2/WindowsService/WindowsService/bin/Debug/netcoreapp3.1/Serilog.Extensions.Logging.dll
+/Users/user/Documents/programming/VisualStudio/CSharp/BSUIR/CSharp-Lab-Tasks/lab2/WindowsService/WindowsService/bin/Debug/netcoreapp3.1/Serilog.Sinks.Console.dll
+/Users/user/Documents/programming/VisualStudio/CSharp/BSUIR/CSharp-Lab-Tasks/lab2/WindowsService/WindowsService/bin/Debug/netcoreapp3.1/Serilog.Sinks.File.dll
