@@ -10,11 +10,28 @@ namespace WindowsService
 {
     public class Worker : BackgroundService
     {
+
+
+        // Properties
+
         private readonly ILogger<Worker> _logger;
+
+
+        // Methods
 
         public Worker(ILogger<Worker> logger)
         {
             _logger = logger;
+        }
+
+        public override async Task StartAsync(CancellationToken cancellationToken)
+        {
+            await base.StartAsync(cancellationToken);
+        }
+
+        public override async Task StopAsync(CancellationToken cancellationToken)
+        {
+            await base.StopAsync(cancellationToken);
         }
 
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)

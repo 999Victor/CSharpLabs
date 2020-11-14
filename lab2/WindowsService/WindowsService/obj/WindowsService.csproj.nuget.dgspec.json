@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Documents/programming/VisualStudio/CSharp/BSUIR/lab2/WindowsService/WindowsService/WindowsService.csproj": {}
+    "/Users/user/Documents/programming/VisualStudio/CSharp/BSUIR/CSharp-Lab-Tasks/lab2/WindowsService/WindowsService/WindowsService.csproj": {}
   },
   "projects": {
-    "/Users/user/Documents/programming/VisualStudio/CSharp/BSUIR/lab2/WindowsService/WindowsService/WindowsService.csproj": {
+    "/Users/user/Documents/programming/VisualStudio/CSharp/BSUIR/CSharp-Lab-Tasks/lab2/WindowsService/WindowsService/WindowsService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Documents/programming/VisualStudio/CSharp/BSUIR/lab2/WindowsService/WindowsService/WindowsService.csproj",
+        "projectUniqueName": "/Users/user/Documents/programming/VisualStudio/CSharp/BSUIR/CSharp-Lab-Tasks/lab2/WindowsService/WindowsService/WindowsService.csproj",
         "projectName": "WindowsService",
-        "projectPath": "/Users/user/Documents/programming/VisualStudio/CSharp/BSUIR/lab2/WindowsService/WindowsService/WindowsService.csproj",
+        "projectPath": "/Users/user/Documents/programming/VisualStudio/CSharp/BSUIR/CSharp-Lab-Tasks/lab2/WindowsService/WindowsService/WindowsService.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Documents/programming/VisualStudio/CSharp/BSUIR/lab2/WindowsService/WindowsService/obj/",
+        "outputPath": "/Users/user/Documents/programming/VisualStudio/CSharp/BSUIR/CSharp-Lab-Tasks/lab2/WindowsService/WindowsService/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.config/NuGet/NuGet.Config"
@@ -43,6 +43,22 @@
             "Microsoft.Extensions.Hosting.WindowsServices": {
               "target": "Package",
               "version": "[3.1.9, )"
+            },
+            "Serilog.Enrichers.Thread": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Serilog.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[4.1.0, )"
             }
           },
           "imports": [
