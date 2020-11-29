@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{0D326FB8-C093-4F48-A6A1-E34DE44BE218}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="WindowsService/Controllers/FileManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WindowsService/Interfaces/IFileService.cs">
     <Files>
       <File FileName="WindowsService/Controllers/FileManager.cs" Line="170" Column="23" IsPinned="True" />
       <File FileName="WindowsService/Program.cs" Line="65" Column="69" />
@@ -7,17 +7,17 @@
       <File FileName="WindowsService/AppSettings.cs" Line="14" Column="19" />
       <File FileName="WindowsService/Services/ServiceA.cs" Line="21" Column="30" />
       <File FileName="WindowsService/appsettings.json" Line="11" Column="21" />
-      <File FileName="WindowsService/Interfaces/IServiceA.cs" Line="8" Column="40" />
+      <File FileName="WindowsService/Interfaces/IServiceA.cs" Line="11" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="WindowsService" expanded="True">
             <Node name="WindowsService" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="FileManager.cs" selected="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Interfaces" expanded="True">
+                <Node name="IFileService.cs" selected="True" />
               </Node>
-              <Node name="Interfaces" expanded="True" />
               <Node name="Services" expanded="True" />
             </Node>
           </Node>
