@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<configuration>
+  <LogConfig>
+    <log>E:\TargetDirectory\log.txt</log>
+  </LogConfig>
+  <PathConfig>
+    <sourceDir>E:\SourceDirectory</sourceDir>
+    <targetDir>E:\TargetDirectory</targetDir>
+    <PathToDB1>Server=Victor;Database=AdventureWorks2018;Trusted_Connection=True;</PathToDB1>
+</PathConfig>
+  <ArchiveConfig>
+    <extension>.gz</extension>
+  </ArchiveConfig>
+  <CipherConfig>
+    <key>5</key>
+  </CipherConfig>
+</configuration>

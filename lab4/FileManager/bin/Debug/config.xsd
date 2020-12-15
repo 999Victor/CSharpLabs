@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    attributeFormDefault="unqualified"
+    elementFormDefault="qualified">
+
+  <xs:element name="configuration">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="LogConfig">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="log" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element maxOccurs="unbounded" name="PathConfig">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="sourceDir" type="xs:string" />
+              <xs:element name="targetDir" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ArchiveConfig">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="extension" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="CipherConfig">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="key" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>

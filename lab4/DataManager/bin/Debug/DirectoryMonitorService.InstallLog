@@ -1,0 +1,23 @@
+﻿Выполняется установка сборки 'C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DirectoryMonitorService.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DirectoryMonitorService.InstallLog
+   assemblypath = C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DirectoryMonitorService.exe
+   logtoconsole = 
+Устанавливается служба DirectoryMonitorService...
+Создается исходный EventLog DirectoryMonitorService в журнале Application...
+Выполняется откат для сборки 'C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DirectoryMonitorService.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DirectoryMonitorService.InstallLog
+   assemblypath = C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DirectoryMonitorService.exe
+   logtoconsole = 
+Восстанавливается исходное состояние журнала событий для источника DirectoryMonitorService.
+Выполняется удаление сборки 'C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DirectoryMonitorService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DirectoryMonitorService.InstallLog
+   assemblypath = C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DirectoryMonitorService.exe
+Выполняется удаление источника EventLog DirectoryMonitorService.
+Выполняется удаление службы DirectoryMonitorService из системы...
+Служба DirectoryMonitorService успешно удалена из системы.

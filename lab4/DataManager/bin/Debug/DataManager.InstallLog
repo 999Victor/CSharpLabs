@@ -1,0 +1,51 @@
+﻿Выполняется установка сборки 'C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DataManager.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DataManager.InstallLog
+   assemblypath = C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DataManager.exe
+   logtoconsole = 
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DataManager.exe.
+Выполняется фиксация сборки 'C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DataManager.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DataManager.InstallLog
+   assemblypath = C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DataManager.exe
+   logtoconsole = 
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DataManager.exe.
+Удалите файл InstallState, поскольку отсутствуют программы установки.
+Выполняется удаление сборки 'C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DataManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DataManager.InstallLog
+   assemblypath = C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DataManager.exe
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DataManager.exe.
+Выполняется установка сборки 'C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DataManager.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DataManager.InstallLog
+   assemblypath = C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DataManager.exe
+   logtoconsole = 
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DataManager.exe.
+Выполняется фиксация сборки 'C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DataManager.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DataManager.InstallLog
+   assemblypath = C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DataManager.exe
+   logtoconsole = 
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DataManager.exe.
+Удалите файл InstallState, поскольку отсутствуют программы установки.
+Выполняется установка сборки 'C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DataManager.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DataManager.InstallLog
+   assemblypath = C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DataManager.exe
+   logtoconsole = 
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DataManager.exe.
+Выполняется фиксация сборки 'C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DataManager.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DataManager.InstallLog
+   assemblypath = C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DataManager.exe
+   logtoconsole = 
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке C:\Users\Dmitry\source\repos\3lab\DataManager\bin\Debug\DataManager.exe.
+Удалите файл InstallState, поскольку отсутствуют программы установки.

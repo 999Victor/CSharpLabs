@@ -1,0 +1,888 @@
+﻿
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+На этапе установки возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+На этапе установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба уже существует
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\directoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\directoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService Victor\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService Victor\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService Victor\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService Victor\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService Victor\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService Victor\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService Victor\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService Victor\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService Victor\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService Victor\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService Victor\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService Victor\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService Victor\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService Victor\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService Victor\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService Victor\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService Victor\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService Victor\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService Victor\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService Victor\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService Victor\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService Victor\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService Victor\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService Victor\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+
+Начинается установка.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService Victor\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService Victor\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Удаление из системы выполнено.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService Victor\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService Victor\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Dmitry\source\repos\DirectoryMonitorService Victor\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.exe.
+Данный файл находится в C:\Users\Dmitry\source\repos\DirectoryMonitorService Victor\DirectoryMonitorService\bin\Debug\DirectoryMonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.

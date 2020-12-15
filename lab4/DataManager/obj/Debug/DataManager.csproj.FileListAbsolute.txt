@@ -1,0 +1,2 @@
+C:\Users\Dmitry\source\repos\DirectoryMonitorService Victor\DataManager\obj\Debug\DataManager.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\DirectoryMonitorService Victor\DataManager\obj\Debug\DataManager.csproj.CoreCompileInputs.cache
